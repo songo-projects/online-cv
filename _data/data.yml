@@ -38,28 +38,31 @@ sidebar:
     title: Languages
     info:
     - idiom: English
+      level: Professional
+
+    - idiom: Mandarin (Chinese)
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
+    - idiom: Cantonese
+      level: Native
+      
+    - idiom: Malay
+      level: Basic
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Technology and IT
       link:
 
-
-    - item: Snowboarding
+    - item: Filming and Video Editing
       link:
 
-
-    - item: Cooking
+    - item: Gym
       link:
 
+    - item: Soccer
+      link:
 
 career-profile:
   title: Career Profile
@@ -73,12 +76,13 @@ career-profile:
     I'm building a strong technical foundation while working toward a 
     future career in software engineering, AI, and cybersecurity. I aim to
     bring genuine enthusiasm and a refusal to stop learning to everything I do.
+    
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Bachelor of Science
+    university: The University of Melbourne
+    time: 2026 - 2028
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
