@@ -18,7 +18,9 @@ sidebar:
   timezone: 
   citizenship:
   website:  # Include the full website URL, including "http://" or "https://".
-  linkedin: song-yin-ngoo
+  linkedin:
+    url: song-yin-ngoo
+    display: Song Yin Ngoo
   xing:
   github: 
   telegram: # add your nickname without '@' sign
