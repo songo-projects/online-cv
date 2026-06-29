@@ -64,12 +64,16 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I'm an enthusiastic, self-driven IT enthusiast with a lifelong passion 
+    for technology, from building my first PC to independently designing 
+    and deploying enterprise-grade network infrastructure for a real business. 
+    I thrive on curiosity, constantly teaching myself new skills through 
+    hands-on projects, research, and experimentation across networking, 
+    systems administration, and device management. Currently pursuing a Bachelor 
+    of Science in Computing and Software Systems at the University of Melbourne, 
+    I'm building a strong technical foundation while working toward a 
+    future career in software engineering, AI, and cybersecurity. I aim to
+    bring genuine enthusiasm and a refusal to stop learning to everything I do.
 education:
   title: Education
   info:
