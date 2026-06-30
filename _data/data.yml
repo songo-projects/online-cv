@@ -79,34 +79,6 @@ career-profile:
     I'm building a strong technical foundation while working toward a 
     future career in software engineering, AI, and cybersecurity. I aim to
     bring genuine enthusiasm and a refusal to stop learning to everything I do.
-    
-
-        
-
-        
-experiences:
-  title: Experiences
-  info:
-  - role: IT Support Technician (Work Experience)
-    time: Jun 2023 - Jun 2023
-    company: A2Z Infrastructure Solutions
-    details: |
-      Work experience at A2Z Infrastructure Solutions helped me gain my first real exposure
-      to the world of IT support, building an understanding of helpdesk operations, IT policy,
-      and networking infrastructure. This placement also introduced me to Active Directory,
-      Microsoft 365 administration, and cybersecurity practices, sparking my interest in pursuing a career in IT. 
-      
-        - Learned helpdesk operations, ticketing/online support forms, and IT policy fundamentals
-        
-        - Gained knowledge of networking: VPN, SD-WAN, DHCP, Wi-Fi, IP addressing, DNS, VLANs, firewalls
-        
-        - Assisted with Active Directory tasks: creating/disabling user accounts, group policies, joining laptops to domain
-        
-        - Exposed to remote desktop support tools for troubleshooting end-user issues
-        
-        - Supported Microsoft 365 admin tasks: mailbox management, Outlook/email access, PST export
-        
-        - Participated in cybersecurity discussions: firewall setup, activity monitoring, business security requirements
 
 education:
   title: Education
@@ -150,6 +122,30 @@ education:
 
         - Received a Certificate of Achievement for camera operation at Presentation 
         Night for three consecutive years (2021–2023)
+        
+experiences:
+  title: Experiences
+  info:
+  - role: IT Support Technician (Work Experience)
+    time: Jun 2023 - Jun 2023
+    company: A2Z Infrastructure Solutions
+    details: |
+      Work experience at A2Z Infrastructure Solutions helped me gain my first real exposure
+      to the world of IT support, building an understanding of helpdesk operations, IT policy,
+      and networking infrastructure. This placement also introduced me to Active Directory,
+      Microsoft 365 administration, and cybersecurity practices, sparking my interest in pursuing a career in IT. 
+      
+        - Learned helpdesk operations, ticketing/online support forms, and IT policy fundamentals
+        
+        - Gained knowledge of networking: VPN, SD-WAN, DHCP, Wi-Fi, IP addressing, DNS, VLANs, firewalls
+        
+        - Assisted with Active Directory tasks: creating/disabling user accounts, group policies, joining laptops to domain
+        
+        - Exposed to remote desktop support tools for troubleshooting end-user issues
+        
+        - Supported Microsoft 365 admin tasks: mailbox management, Outlook/email access, PST export
+        
+        - Participated in cybersecurity discussions: firewall setup, activity monitoring, business security requirements
 
 projects:
   title: Projects
