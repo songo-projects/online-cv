@@ -109,14 +109,22 @@ education:
     university: Kew High School
     time: JAN 2020 - NOV 2025
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Throughout my VCE at Kew High School, I developed leadership, communication, 
+      and teamwork skills while expressing creativity across classes. I completed 
+      subjects including Core English, Methods, General Mathematics, Physics, 
+      Business Management, and Applied Computing, building a well-rounded foundation 
+      for my computing studies ahead.
+      
+        - Developed a Python and Anvil web application to analyse sleep patterns by 
+        designing, conducting, and evaluating survey data on human needs, sleep schedules,
+        and sleep conditions
+        
+        - Built and programmed LEGO Mindstorms robots using Blockly for robotics and 
+        automation projects.
 
+        - Received a Certificate of Achievement for camera operation at Presentation 
+        Night for three consecutive years (2021–2023)
+        
 experiences:
   title: Experiences
   info:
