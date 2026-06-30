@@ -150,7 +150,7 @@ experiences:
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Click on project title to view image
   assignments:
   - title: UDM-Pro and APs Deployment (Summer Project)
     link: "#hook"
