@@ -40,15 +40,12 @@ sidebar:
     - idiom: English
       level: Professional
 
-
     - idiom: Mandarin (Chinese)
       level: Native
-
 
     - idiom: Cantonese
       level: Native
 
-      
     - idiom: Malay
       level: Basic
 
@@ -59,6 +56,9 @@ sidebar:
       link:
 
     - item: Filming and Video Editing
+      link:
+
+    - item: Coding
       link:
 
     - item: Gym
@@ -87,13 +87,20 @@ education:
     university: The University of Melbourne
     time: 2026 - 2028
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
+      I'm currently studying a Bachelor of Science majoring in Computing and 
+      Software Systems at the University of Melbourne, building a strong 
+      foundation in programming, computational thinking, and software development.
+      Beyond my degree, I plan to pursue a Master of Software Engineering, 
+      specialising in either Artificial Intelligence or Cybersecurity, to 
+      deepen my technical expertise in these emerging fields.
+
+        - Completed Foundations of Computing, developed Python programming, 
+        problem-solving, and computational thinking skills. Studied core 
+        computing concepts including UTF encoding, numbering system, and
+        algorithm types. Gain exposure on HTML, GitHub Copilot, and project-
+        based development. 
         - Bullet point
-        - Bullet point
+        
   - degree: BSc in Applied Mathematics
     university: Bristol University
     time: 2007 - 2011
