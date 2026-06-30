@@ -154,23 +154,23 @@ projects:
   assignments:
   - title: UDM-Pro and APs Deployment (Summer Project)
     link: "#hook"
-    tagline: On-Site Wiring
+    tagline: "On-Site Wiring"
 
   - title: Synology NAS Deployment (Summer Project)
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Something"
 
   - title: TP-Link Wi-Fi 7 Deployment (Summer Project)
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
+    tagline: "Something"
+    
   - title: Surveillance System Deployment (Summer Project)
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
+    tagline: "Something"
+    
   - title: Personal Home Lab (Home Assistant, Windows Server, Synology NAS)
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Something"
 
 recommendations:
   title: Recommendations
