@@ -147,6 +147,30 @@ experiences:
         
         - Participated in cybersecurity discussions: firewall setup, activity monitoring, business security requirements
 
+education:
+  title: Education
+  info:
+  - degree: Bachelor of Science
+    university: The University of Melbourne
+    time: FEB 2026 - PRESENT
+    details: |
+      I'm currently studying a Bachelor of Science majoring in Computing and 
+      Software Systems at the University of Melbourne, building a strong 
+      foundation in programming, computational thinking, and software development.
+      Beyond my degree, I plan to pursue a Master of Software Engineering, 
+      specialising in either Artificial Intelligence or Cybersecurity, to 
+      deepen my technical expertise in these emerging fields. Completed subjects include:
+
+        - Foundations of Computing - Python programming, computational thinking,
+        UTF encoding, numbering systems, and algorithm types, plus exposure to HTML,
+        GitHub Copilot, and project-based development
+
+        - Calculus 1 - differentiation, integration, and mathematical modelling to 
+        solve real-world quantitative problems
+
+        - Principles of Marketing - gaining an understanding of consumer 
+        behaviour, market research, branding, and strategic marketing concepts
+
 projects:
   title: Projects
   intro: >
