@@ -152,23 +152,23 @@ projects:
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
+  - title: UDM-Pro and APs Deployment (Summer Project)
     link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    tagline: On-Site Wiring
 
-  - title: DevStudio
+  - title: Synology NAS Deployment (Summer Project)
     link: "#"
     tagline: "A responsive website template designed to help web developers/designers market their services."
 
-  - title: Tempo
+  - title: TP-Link Wi-Fi 7 Deployment (Summer Project)
     link: "#"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
+  - title: Surveillance System Deployment (Summer Project)
     link: "#"
     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: Delta
+  - title: Personal Home Lab (Home Assistant, Windows Server, Synology NAS)
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
