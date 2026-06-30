@@ -94,12 +94,14 @@ education:
       specialising in either Artificial Intelligence or Cybersecurity, to 
       deepen my technical expertise in these emerging fields.
 
-        - Completed Foundations of Computing, developed Python programming, 
-        problem-solving, and computational thinking skills. Studied core 
-        computing concepts including UTF encoding, numbering system, and
-        algorithm types. Gain exposure on HTML, GitHub Copilot, and project-
-        based development. 
-        - Bullet point
+        - Completed Foundations of Computing, developing Python programming, 
+        problem-solving, and computational thinking skills, alongside core 
+        concepts like UTF encoding, numbering systems, and algorithm types. 
+        Gained exposure to HTML, GitHub Copilot, and project-based development.
+
+        - title: Velocity
+          link: "#hook"
+          tagline: "A responsive website template designed to help startups promote, market and sell their products."
         
   - degree: BSc in Applied Mathematics
     university: Bristol University
