@@ -82,24 +82,7 @@ career-profile:
     
 
         
-  - degree: Victorian Certificate of Education (VCE)
-    university: Kew High School
-    time: JAN 2020 - NOV 2025
-    details: |
-      Throughout my VCE at Kew High School, I developed leadership, communication, and 
-      teamwork skills while expressing creativity across classes. Completing subjects 
-      including Core English, Methods, General Mathematics, Physics, Business Management,
-      and Applied Computing.
-      
-        - Developed a Python and Anvil web application to analyse sleep patterns by 
-        designing, conducting, and evaluating survey data on human needs, sleep schedules,
-        and sleep conditions
-        
-        - Built and programmed LEGO Mindstorms robots using Blockly for robotics and 
-        automation projects.
 
-        - Received a Certificate of Achievement for camera operation at Presentation 
-        Night for three consecutive years (2021–2023)
         
 experiences:
   title: Experiences
@@ -148,6 +131,25 @@ education:
 
         - Principles of Marketing - gaining an understanding of consumer 
         behaviour, market research, branding, and strategic marketing concepts
+
+  - degree: Victorian Certificate of Education (VCE)
+    university: Kew High School
+    time: JAN 2020 - NOV 2025
+    details: |
+      Throughout my VCE at Kew High School, I developed leadership, communication, and 
+      teamwork skills while expressing creativity across classes. Completing subjects 
+      including Core English, Methods, General Mathematics, Physics, Business Management,
+      and Applied Computing.
+      
+        - Developed a Python and Anvil web application to analyse sleep patterns by 
+        designing, conducting, and evaluating survey data on human needs, sleep schedules,
+        and sleep conditions
+        
+        - Built and programmed LEGO Mindstorms robots using Blockly for robotics and 
+        automation projects.
+
+        - Received a Certificate of Achievement for camera operation at Presentation 
+        Night for three consecutive years (2021–2023)
 
 projects:
   title: Projects
