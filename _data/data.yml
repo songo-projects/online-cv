@@ -85,7 +85,7 @@ education:
   info:
   - degree: Bachelor of Science
     university: The University of Melbourne
-    time: 2026 - 2028
+    time: FEB 2026 - PRESENT
     details: |
       I'm currently studying a Bachelor of Science majoring in Computing and 
       Software Systems at the University of Melbourne, building a strong 
@@ -99,13 +99,15 @@ education:
         concepts like UTF encoding, numbering systems, and algorithm types. 
         Gained exposure to HTML, GitHub Copilot, and project-based development.
 
-        - title: Velocity
-          link: "#hook"
-          tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        - Completed Calculus 1, developing skills in differentiation, integration, 
+        and mathematical modelling to solve real-world quantitative problems.
+
+        - Completed Principles of Marketing, gaining an understanding of consumer 
+        behaviour, market research, branding, and strategic marketing concepts.
         
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Victorian Certificate of Education (VCE)
+    university: Kew High School
+    time: JAN 2020 - NOV 2025
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
