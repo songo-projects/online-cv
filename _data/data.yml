@@ -158,19 +158,19 @@ projects:
 
   - title: Synology NAS Deployment (Summer Project)
     link: "#"
-    tagline: "Something"
+    tagline: "Loading"
 
   - title: TP-Link Wi-Fi 7 Deployment (Summer Project)
     link: "#"
-    tagline: "Something"
+    tagline: "Loading"
     
   - title: Surveillance System Deployment (Summer Project)
     link: "#"
-    tagline: "Something"
+    tagline: "Loading"
     
   - title: Personal Home Lab (Home Assistant, Windows Server, Synology NAS)
     link: "#"
-    tagline: "Something"
+    tagline: "Loading"
 
 recommendations:
   title: Recommendations
@@ -186,23 +186,20 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Skill-1
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: Skill-2
     level: 98%
 
-  - name: Angular
+  - name: Skill-3
     level: 98%
 
-  - name: HTML5 & CSS
+  - name: Skill-4
     level: 95%
 
-  - name: Ruby on Rails
+  - name: Skill-5
     level: 85%
 
-  - name: Sketch & Photoshop
+  - name: Skill-6
     level: 60%
-
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
