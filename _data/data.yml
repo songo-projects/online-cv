@@ -175,20 +175,12 @@ projects:
 recommendations:
   title: Recommendations
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+  - person: Andrew Luu
+    email: andrew@a2zis.com.au
+    phone: 04 0410 5712
+    role: Founder of A2Z Infrastructure Solutions
     recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+      Song has shown a keen nature to IT. It's been a pleasure training and showing the world of IT. 
 
 skills:
   title: Skills &amp; Proficiency
