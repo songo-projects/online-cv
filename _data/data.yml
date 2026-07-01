@@ -186,20 +186,20 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Loading
-    level: 98%
+  - name: Multi-OS Troubleshooting (Windows, macOS, iOS)
+    level: 80%
 
-  - name: Loading
-    level: 98%
+  - name: OS Installation & Imaging (Windows, macOS, iOS)
+    level: 80%
 
-  - name: Loading
-    level: 98%
+  - name: Network Configuration (UniFi, VLAN, DHCP, Wi-Fi)
+    level: 80%
 
-  - name: Loading
-    level: 95%
+  - name: Server & Hardware Building (NAS, PC, Server Assembly)
+    level: 80%
 
-  - name: Loading
-    level: 85%
+  - name: Active Directory & User Management
+    level: 75%
 
-  - name: Loading
-    level: 60%
+  - name: Microsoft 365 Administration
+    level: 75%
