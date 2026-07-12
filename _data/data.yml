@@ -157,19 +157,19 @@ projects:
     tagline: "On-Site Wiring"
 
   - title: Synology NAS Deployment (Summer Project)
-    link: "/assets/images/synology-nas.jpg"
+    link: "https://raw.githubusercontent.com/songo-projects/online-cv/refs/heads/master/_data/Synology%20NAS.png"
     tagline: "Loading"
 
   - title: TP-Link Wi-Fi 7 Deployment (Summer Project)
-    link: "/assets/images/tplink-wifi7.jpg"
+    link: "https://raw.githubusercontent.com/songo-projects/online-cv/refs/heads/master/_data/TP-Link.png"
     tagline: "Loading"
     
   - title: Surveillance System Deployment (Summer Project)
-    link: "/assets/images/surveillance-system.jpg"
+    link: "https://raw.githubusercontent.com/songo-projects/online-cv/refs/heads/master/_data/Surveillance%20System.png"
     tagline: "Loading"
     
   - title: Personal Home Lab (Home Assistant, Windows Server, Synology NAS)
-    link: "/assets/images/personal-home-lab.jpg"
+    link: "https://raw.githubusercontent.com/songo-projects/online-cv/refs/heads/master/_data/Personal%20Home%20Lab.png"
     tagline: "Loading"
 
 recommendations:
