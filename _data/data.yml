@@ -153,23 +153,23 @@ projects:
    🔍 Click a project title to view images.
   assignments:
   - title: UDM-Pro and APs Deployment (Summer Project)
-    link: "#"
+    link: "/assets/images/udm-pro-aps.jpg"
     tagline: "On-Site Wiring"
 
   - title: Synology NAS Deployment (Summer Project)
-    link: "#"
+    link: "/assets/images/synology-nas.jpg"
     tagline: "Loading"
 
   - title: TP-Link Wi-Fi 7 Deployment (Summer Project)
-    link: "#"
+    link: "/assets/images/tplink-wifi7.jpg"
     tagline: "Loading"
     
   - title: Surveillance System Deployment (Summer Project)
-    link: "#"
+    link: "/assets/images/surveillance-system.jpg"
     tagline: "Loading"
     
   - title: Personal Home Lab (Home Assistant, Windows Server, Synology NAS)
-    link: "#"
+    link: "/assets/images/personal-home-lab.jpg"
     tagline: "Loading"
 
 recommendations:
