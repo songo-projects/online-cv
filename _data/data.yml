@@ -154,7 +154,7 @@ projects:
   assignments:
   - title: UDM-Pro and APs Deployment (Summer Project)
     link: "https://raw.githubusercontent.com/songo-projects/online-cv/refs/heads/master/_data/Ubiquiti.png"
-    tagline: "On-Site Wiring"
+    tagline: "Independently led and self-managed the end-to-end deployment. Conducted comprehensive site assessment and network design tailored to business scale and operational needs, including optimal AP placement. Performed full hardware installation (CAT6 cabling, RJ45 termination, rack-mounted servers/switches, AP deployment) and software configuration (WAN, VLANs, firewall/traffic rules, SSID/channel planning, DHCP reservations). Delivered performance reporting with IoT isolation and VPN setup for management access."
 
   - title: Synology NAS Deployment (Summer Project)
     link: "https://raw.githubusercontent.com/songo-projects/online-cv/refs/heads/master/_data/Synology%20NAS.png"
