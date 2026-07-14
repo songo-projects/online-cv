@@ -164,19 +164,41 @@ projects:
     
   - title: Synology NAS Deployment (Summer Project)
     link: "https://raw.githubusercontent.com/songo-projects/online-cv/refs/heads/master/_data/Synology%20NAS.png"
-    tagline: "Loading"
+    tagline: |
+      Independently led and self-managed the end-to-end deployment, conducting a comprehensive site assessment and network design tailored to business scale and operational needs.
+  
+        - Performed full hardware installation: NAS deployment, HDDs, SSD cache, and RAM upgrades
+        - Configured software: User accounts and permission, group policies, set up shared folders, cloud and backup services
+        - Deployed and configured client software on employee laptops for file access
+        - Configured cloud sync and automated backup services
 
   - title: TP-Link Wi-Fi 7 Deployment (Summer Project)
     link: "https://raw.githubusercontent.com/songo-projects/online-cv/refs/heads/master/_data/TP-Link.png"
-    tagline: "Loading"
+    tagline: |
+      Assessing office's existing network infrastucture and research solutions to achieve extremely high-speed internet performance
+  
+        - Configured main router settings including WAN, Wi-Fi, DHCP, and IP reservations
+        - Performed Ethernet cable wiring for switches and LAN devices, and deployed APs and switches for full Wi-Fi coverage
+        - Conducted speed testing at the main router (multi-gig speeds) and at access points (gigabit speeds) to validate performance
     
   - title: Surveillance System Deployment (Summer Project)
     link: "https://raw.githubusercontent.com/songo-projects/online-cv/refs/heads/master/_data/Surveillance%20System.png"
-    tagline: "Loading"
+    tagline: |
+      Deployment of both DVR (Analog) and NVR (IP) camera systems for a factory site
+  
+        - Conducted on-site wiring, Ethernet cabling, and camera installation
+        - Set up DVR, screen monitoring, and app-based viewing access for the management team
+        - Installed Smart IP cameras and adopted them into the NVR and app, ensuring proper VLAN network segmentation
     
   - title: Personal Home Lab (Home Assistant, Windows Server, Synology NAS)
     link: "https://raw.githubusercontent.com/songo-projects/online-cv/refs/heads/master/_data/Personal%20Home%20Lab.png"
-    tagline: "Loading"
+    tagline: |
+      Built and maintain a personal home lab driven by a lifelong passion for IT, self-taught through independent research and video tutorials
+  
+        - Deployed Windows Server to replicate enterprise environments, including Active Directory-style policies used in business and school networks
+        - Configured Home Assistant to centralize and automate smart home devices, including testing and implementing new devices and software configurations
+        - Currently expanding knowledge of Active Directory for corporate/enterprise applications, with plans to apply this in an upcoming summer project
+        - Planning future implementation of UniFi networking and Pi-hole for DNS-level ad blocking and network management, to further build hands-on experience
 
 recommendations:
   title: Recommendations
