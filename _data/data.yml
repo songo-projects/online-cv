@@ -155,12 +155,12 @@ projects:
   - title: UDM-Pro and APs Deployment (Summer Project)
     link: "https://raw.githubusercontent.com/songo-projects/online-cv/refs/heads/master/_data/Ubiquiti.png"
     tagline: |
-    Independently led and self-managed the end-to-end deployment, conducting a comprehensive site assessment and network design tailored to business scale and operational needs.
-
-    - Performed full hardware installation CAT6 cabling, RJ45 termination, rack-mounted servers/switches, AP deployment
-    - Configured software WAN, VLANs, firewall/traffic rules, SSID/channel planning, DHCP reservations
-    - Delivered performance reporting with IoT isolation
-    - Set up VPN for management access
+      Independently led and self-managed the end-to-end deployment, conducting a comprehensive site assessment and network design tailored to business scale and operational needs.
+  
+        - Performed full hardware installation CAT6 cabling, RJ45 termination, rack-mounted servers/switches, AP deployment
+        - Configured software WAN, VLANs, firewall/traffic rules, SSID/channel planning, DHCP reservations
+        - Delivered performance reporting with IoT isolation
+        - Set up VPN for management access
     
   - title: Synology NAS Deployment (Summer Project)
     link: "https://raw.githubusercontent.com/songo-projects/online-cv/refs/heads/master/_data/Synology%20NAS.png"
