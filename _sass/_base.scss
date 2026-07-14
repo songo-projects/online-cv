@@ -227,6 +227,19 @@ p {
     margin-bottom: 5px;
     color: darken($theme-color, 15%);
   }
+
+  .project-tagline {
+    p {
+      margin: 0 0 8px;
+    }
+    ul {
+      margin: 0 0 8px;
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 4px;
+    }
+  }
   .projects-section {
     .intro {
       margin-bottom: 30px;
